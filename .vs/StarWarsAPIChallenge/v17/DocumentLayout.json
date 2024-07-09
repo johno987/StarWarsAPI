@@ -54,8 +54,7 @@
               "RelativeToolTip": "IReadAPIData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T17:07:31.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T17:07:31.939Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "UniversalPrinter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T19:22:26.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T19:22:26.69Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "Run.cs",
               "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Run.cs",
               "RelativeToolTip": "Run.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T18:49:31.429Z",
               "EditorCaption": ""
@@ -97,7 +95,7 @@
               "RelativeDocumentMoniker": "PrintMessageToUser.cs",
               "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\PrintMessageToUser.cs",
               "RelativeToolTip": "PrintMessageToUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T17:31:32.583Z",
               "EditorCaption": ""
@@ -112,8 +110,7 @@
               "RelativeToolTip": "StoredData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T17:52:12.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T17:52:12.5Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "ReadAPIData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:55:37.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T18:55:37.723Z"
             }
           ]
         }
