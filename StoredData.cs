@@ -55,6 +55,7 @@ public class StoredData
                 Console.WriteLine("Not a valid choice");
                 break;
         }
+        Console.WriteLine("Press any key to close");
     }
 }
 
