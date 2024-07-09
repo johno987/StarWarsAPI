@@ -12,3 +12,19 @@ C:\Users\Will Johnson\source\repos\StarWarsAPIChallenge\obj\Debug\net8.0\refint\
 C:\Users\Will Johnson\source\repos\StarWarsAPIChallenge\obj\Debug\net8.0\StarWarsAPIChallenge.pdb
 C:\Users\Will Johnson\source\repos\StarWarsAPIChallenge\obj\Debug\net8.0\StarWarsAPIChallenge.genruntimeconfig.cache
 C:\Users\Will Johnson\source\repos\StarWarsAPIChallenge\obj\Debug\net8.0\ref\StarWarsAPIChallenge.dll
+C:\Users\willj\source\repos\StarWarsAPI\bin\Debug\net8.0\StarWarsAPIChallenge.exe
+C:\Users\willj\source\repos\StarWarsAPI\bin\Debug\net8.0\StarWarsAPIChallenge.deps.json
+C:\Users\willj\source\repos\StarWarsAPI\bin\Debug\net8.0\StarWarsAPIChallenge.runtimeconfig.json
+C:\Users\willj\source\repos\StarWarsAPI\bin\Debug\net8.0\StarWarsAPIChallenge.dll
+C:\Users\willj\source\repos\StarWarsAPI\bin\Debug\net8.0\StarWarsAPIChallenge.pdb
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.AssemblyInfoInputs.cache
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.AssemblyInfo.cs
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.csproj.CoreCompileInputs.cache
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.sourcelink.json
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.dll
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\refint\StarWarsAPIChallenge.dll
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.pdb
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\StarWarsAPIChallenge.genruntimeconfig.cache
+C:\Users\willj\source\repos\StarWarsAPI\obj\Debug\net8.0\ref\StarWarsAPIChallenge.dll
+C:\Users\Will Johnson\source\repos\StarWarsAPIChallenge\obj\Debug\net8.0\StarWarsAPIChallenge.sourcelink.json
