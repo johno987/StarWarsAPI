@@ -31,7 +31,7 @@ public static class getUserInput
             {
                 Console.WriteLine("Invalid choice");
             }
-            else
+            else if(input is not null)
                 return input;
         }
     }
