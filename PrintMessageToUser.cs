@@ -5,7 +5,7 @@
     {
         foreach (var item in myDeserializedData.results)
         {
-            Console.WriteLine($"Planet {item.name,-10} Population {item.Population,-15} Diameter {item.Diameter,-10}" +
+            Console.WriteLine($"Planet {item.Name,-10} Population {item.Population,-15} Diameter {item.Diameter,-10}" +
                 $"Surface Water {item.SurfaceWater,-10}");
         }
     }

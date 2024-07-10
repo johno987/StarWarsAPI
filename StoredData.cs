@@ -20,7 +20,7 @@ public class StoredData
         if(myDeserializedData == null) return;
         foreach (var planet in myDeserializedData.results)
         {
-            Planets[planet.name] = (Population: ParseInput.ParseInt(planet.Population), 
+            Planets[planet.Name] = (Population: ParseInput.ParseInt(planet.Population), 
                 Diameter: ParseInput.ParseInt(planet.Diameter),
                 SurfaceWater: ParseInput.ParseInt(planet.SurfaceWater));
         }

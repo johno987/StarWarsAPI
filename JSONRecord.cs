@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 public record Result(
-    [property: JsonPropertyName("name")] string name,
+    [property: JsonPropertyName("name")] string Name,
     [property: JsonPropertyName("rotation_period")] string rotation_period,
     [property: JsonPropertyName("orbital_period")] string orbital_period,
     [property: JsonPropertyName("diameter")] string Diameter,
