@@ -11,6 +11,16 @@
         return null;
 
     }
+    public static double? ParseDouble(string value)
+    {
+        double result;
+        bool test = Double.TryParse(value, out result);
+        if (test)
+        {
+            return result;
+        }
+        return null;
+    }
 }
 
 
