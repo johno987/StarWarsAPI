@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarWarsAPIChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45cf4a6d8e53d2f98be2f4614a79f411d1ce01e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9721afbb2718524cd48cbe65bbb120a112d66800")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarWarsAPIChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarWarsAPIChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
