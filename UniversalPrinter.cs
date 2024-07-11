@@ -36,6 +36,9 @@ public class UniversalPrinter
                 if(headers.Contains(prop.Name.ToUpper()))
                 {
                     var value = prop.GetValue(print, null);
+                    //if(value.ToString() == "unknown")
+                    //    Console.Write("", -15);
+                    //else
                     Console.Write($"{value,-15} |");
                 }
                 else
