@@ -1,11 +1,15 @@
 ﻿using System.Text.Json;
 
-public class StoredData
+public class StoredData : IStoredData
 {
-    public ReadAPIData APIreader = new ReadAPIData();
-    public string? dataRead {  get; set; }
+    public IReadAPIData APIreader;
+    public string? dataRead { get; set; }
     public Root? myDeserializedData { get; set; }
-    public Dictionary<string, (int? Population, int? Diameter, int? SurfaceWater)> Planets { get; set; } = new();
+    public Dictionary<string, (double? Population, int? Diameter, int? SurfaceWater)> Planets { get; set; } = new();
+    public StoredData(IReadAPIData aPIreader)
+    {
+        APIreader = aPIreader;
+    }
     public async Task getDataAndStoreIndataRead()
     {
         dataRead = await APIreader.readData(APIreader.baseURL, APIreader.RestofURL);
@@ -17,11 +21,11 @@ public class StoredData
     }
     public void generateDictionary()
     {
-        if(myDeserializedData == null) return;
+        if (myDeserializedData == null) return;
         foreach (var planet in myDeserializedData.results)
         {
-            Planets[planet.Name] = 
-                (Population: ParseInput.ParseInt(planet.Population), 
+            Planets[planet.Name] =
+                (Population: ParseInput.ParseDouble(planet.Population),
                 Diameter: ParseInput.ParseInt(planet.Diameter),
                 SurfaceWater: ParseInput.ParseInt(planet.SurfaceWater));
         }

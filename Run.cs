@@ -3,11 +3,20 @@ using System.Numerics;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
+var StartCode = new Run(new StoredData(new ReadAPIData()));
+await StartCode.RunCode();
+
 public class Run
 {
-    public static StoredData data = new();
-    public static async Task Main()
+    private IStoredData? data;
+
+    public Run(IStoredData Data)
     {
+        data = Data;
+    }
+    public async Task RunCode()
+    {
+        //data = new StoredData();
         await data.getDataAndStoreIndataRead(); //reads the json string from the API
         data.ParseData(); //parses the json string into our record variable
         //PrintMessageToUser.printData(data.myDeserializedData!); //prints the API data (planet, population, diameter & water)

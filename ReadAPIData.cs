@@ -1,11 +1,14 @@
 ﻿using System.Data.Common;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-public class ReadAPIData
+public class ReadAPIData : IReadAPIData
 {
-    public readonly string baseURL = "https://swapi.dev/api/";
-    public readonly string RestofURL = "planets";
+    private readonly string BaseURL = "https://swapi.dev/api/";
+    private readonly string restofURL = "planets";
     HttpClient Client = new HttpClient();
+
+    string IReadAPIData.baseURL{  get => BaseURL; }
+    string IReadAPIData.RestofURL{ get => restofURL;}
 
     public async Task<string> readData(string baseAddress, string URI = "")
     {

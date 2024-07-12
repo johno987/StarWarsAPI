@@ -1,43 +1,46 @@
-<<<<<<< HEAD
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\print\\universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:print\\universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\storeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:storeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\interfaces\\ireadapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:interfaces\\ireadapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\parseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:parseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\interfaces\\istoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:interfaces\\istoreddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\print\\printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:print\\printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\ireadapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:ireadapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\input\\getuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:input\\getuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\getuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:getuserinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\input\\parseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:input\\parseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\willj\\source\\repos\\starwarsapi\\json\\jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:json\\jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +50,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Run.cs",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Run.cs",
+              "RelativeDocumentMoniker": "Run.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Run.cs",
+              "RelativeToolTip": "Run.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:49:31.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -59,51 +76,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IReadAPIData.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\IReadAPIData.cs",
-              "RelativeDocumentMoniker": "IReadAPIData.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\IReadAPIData.cs",
-              "RelativeToolTip": "IReadAPIData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T16:21:48.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StoredData.cs",
               "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\StoredData.cs",
               "RelativeDocumentMoniker": "StoredData.cs",
               "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\StoredData.cs",
               "RelativeToolTip": "StoredData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:35:54.883Z",
+              "WhenOpened": "2024-07-12T16:54:39.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReadAPIData.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ReadAPIData.cs",
-              "RelativeDocumentMoniker": "ReadAPIData.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ReadAPIData.cs",
-              "RelativeToolTip": "ReadAPIData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:55:37.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "JSONRecord.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\JSONRecord.cs",
-              "RelativeDocumentMoniker": "JSONRecord.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\JSONRecord.cs",
-              "RelativeToolTip": "JSONRecord.cs",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\JSON\\JSONRecord.cs",
+              "RelativeDocumentMoniker": "JSON\\JSONRecord.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\JSON\\JSONRecord.cs",
+              "RelativeToolTip": "JSON\\JSONRecord.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T20:52:05.206Z",
@@ -111,108 +102,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ParseInput.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ParseInput.cs",
-              "RelativeDocumentMoniker": "ParseInput.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ParseInput.cs",
-              "RelativeToolTip": "ParseInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Input\\ParseInput.cs",
+              "RelativeDocumentMoniker": "Input\\ParseInput.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Input\\ParseInput.cs",
+              "RelativeToolTip": "Input\\ParseInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T16:54:50.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PrintMessageToUser.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\PrintMessageToUser.cs",
-              "RelativeDocumentMoniker": "PrintMessageToUser.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\PrintMessageToUser.cs",
-              "RelativeToolTip": "PrintMessageToUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Print\\PrintMessageToUser.cs",
+              "RelativeDocumentMoniker": "Print\\PrintMessageToUser.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Print\\PrintMessageToUser.cs",
+              "RelativeToolTip": "Print\\PrintMessageToUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T18:38:13.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UniversalPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\UniversalPrinter.cs",
-              "RelativeDocumentMoniker": "UniversalPrinter.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\UniversalPrinter.cs",
-              "RelativeToolTip": "UniversalPrinter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Print\\UniversalPrinter.cs",
+              "RelativeDocumentMoniker": "Print\\UniversalPrinter.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Print\\UniversalPrinter.cs",
+              "RelativeToolTip": "Print\\UniversalPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T19:22:26.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Run.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Run.cs",
-              "RelativeDocumentMoniker": "Run.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Run.cs",
-              "RelativeToolTip": "Run.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:49:31.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "getUserInput.cs",
-              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\getUserInput.cs",
-              "RelativeDocumentMoniker": "getUserInput.cs",
-              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\getUserInput.cs",
-              "RelativeToolTip": "getUserInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Input\\getUserInput.cs",
+              "RelativeDocumentMoniker": "Input\\getUserInput.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Input\\getUserInput.cs",
+              "RelativeToolTip": "Input\\getUserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T16:21:44.034Z",
               "EditorCaption": ""
             }
           ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadAPIData.cs",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ReadAPIData.cs",
+              "RelativeDocumentMoniker": "ReadAPIData.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\ReadAPIData.cs",
+              "RelativeToolTip": "ReadAPIData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:55:37.723Z",
+              "EditorCaption": ""
+            }
+          ]
         }
       ]
-    }
-  ]
-=======
-{
-  "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\storeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:storeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:universalprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:jsonrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:readapidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|c:\\users\\will johnson\\source\\repos\\starwarsapichallenge\\printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FDA948C-B542-49F9-8116-A9C719423BE5}|StarWarsAPIChallenge.csproj|solutionrelative:printmessagetouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
-  "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b2a17094-4e5e-4eec-8c47-0be6d27c0ac4",
+        "Display": 1,
+        "X": -5,
+        "Y": 0,
+        "Width": 1090,
+        "Height": 1129,
+        "WindowState": 2
+      },
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -220,82 +194,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JSONRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\JSONRecord.cs",
-              "RelativeDocumentMoniker": "JSONRecord.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\JSONRecord.cs",
-              "RelativeToolTip": "JSONRecord.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:52:05.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StoredData.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\StoredData.cs",
-              "RelativeDocumentMoniker": "StoredData.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\StoredData.cs",
-              "RelativeToolTip": "StoredData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T20:35:54.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PrintMessageToUser.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\PrintMessageToUser.cs",
-              "RelativeDocumentMoniker": "PrintMessageToUser.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\PrintMessageToUser.cs",
-              "RelativeToolTip": "PrintMessageToUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Title": "IStoredData.cs",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Interfaces\\IStoredData.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IStoredData.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Interfaces\\IStoredData.cs",
+              "RelativeToolTip": "Interfaces\\IStoredData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T18:38:13.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UniversalPrinter.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\UniversalPrinter.cs",
-              "RelativeDocumentMoniker": "UniversalPrinter.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\UniversalPrinter.cs",
-              "RelativeToolTip": "UniversalPrinter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T19:22:26.69Z",
+              "WhenOpened": "2024-07-12T16:31:20.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReadAPIData.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\ReadAPIData.cs",
-              "RelativeDocumentMoniker": "ReadAPIData.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\ReadAPIData.cs",
-              "RelativeToolTip": "ReadAPIData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "IReadAPIData.cs",
+              "DocumentMoniker": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Interfaces\\IReadAPIData.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReadAPIData.cs",
+              "ToolTip": "C:\\Users\\willj\\source\\repos\\StarWarsAPI\\Interfaces\\IReadAPIData.cs",
+              "RelativeToolTip": "Interfaces\\IReadAPIData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:55:37.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Run.cs",
-              "DocumentMoniker": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\Run.cs",
-              "RelativeDocumentMoniker": "Run.cs",
-              "ToolTip": "C:\\Users\\Will Johnson\\source\\repos\\StarWarsAPIChallenge\\Run.cs",
-              "RelativeToolTip": "Run.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:49:31.429Z"
+              "WhenOpened": "2024-07-12T16:33:44.734Z",
+              "EditorCaption": ""
             }
           ]
         }
       ]
     }
   ]
->>>>>>> 4db55775790b776845dcdb116415f8b921267e63
 }
